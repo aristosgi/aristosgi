@@ -20,15 +20,19 @@ I'm **Aristotelis Gkithkopoulos**, a graduate of the Athens University of Econom
 **Completed Courses:**
 - [Deep Learning and Neural Networks](https://www.coursera.org/account/accomplishments/verify/DVRGXP5SMMNV) by DeepLearning.AI
 - [Improving Deep Neural Networks](https://www.coursera.org/account/accomplishments/verify/4JTP2M59D96F) by DeepLearning.AI
+- [Structure Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/UA6SSUXTWB7L) by DeepLearning.AI
 
 **In Progress:**
-- Structuring Machine Learning Projects by DeepLearning.AI
+- SConvolutional Neural Networks by DeepLearning.AI
 
 ## Connect with Me
 - **Email:** [aristogithk@gmail.com](mailto:aristogithk@gmail.com)
 - **GitHub:** [aristosgi](https://github.com/aristosgi)
 
 ## Featured Projects
+
+### [convolutional-layers-visualization](https://github.com/aristosgi/convolutional-layers-visualization)
+An example of how some layers of a CNN model Works.
 
 ### [ALGO_ASSIGNMENTS](https://github.com/aristosgi/ALGO_ASSIGNMENTS)
 A collection of solved algorithm assignments in Python.
